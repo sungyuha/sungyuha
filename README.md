@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
 <!--
 **sungyuha/sungyuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
