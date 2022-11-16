@@ -7,6 +7,8 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungyuha&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true">
 
 <!--
 **sungyuha/sungyuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
