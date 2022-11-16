@@ -13,6 +13,8 @@
 	<br />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungyuha&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true">
+	<br />
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyuha)](https://github.com/sungyuha/github-readme-stats)
 </div>
 
 <!--
