@@ -24,6 +24,12 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<br /><br />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungyuha&layout=compact"><br><br>
+	<picture>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+	</picture><br /><br />
 	<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true">
 </div>
