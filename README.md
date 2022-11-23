@@ -25,6 +25,6 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<br /><br />
 	<picture>
-	https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true<br /><br />
+	<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true"><br /><br />
 	<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true">
 </div>
