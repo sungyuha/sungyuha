@@ -33,5 +33,3 @@
 	</picture><br /><br />
 	<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true">
 </div>
-
-[![Anurag's GitHub stats]
