@@ -25,5 +25,5 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<br /><br />
 	<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true"><br /><br />
-	<img src="https://github-readme-stats.vercel.app/api?username=sungyuha&show_icons=true">
+	[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sungyuha)](https://github.com/sungyuha/github-readme-stats)
 </div>
