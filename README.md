@@ -3,6 +3,7 @@
 </div>	
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	</br>
 	<p>🛠 Collaboration & Tools 🛠</p>
 </div>	
 
