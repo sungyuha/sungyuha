@@ -11,7 +11,6 @@
 	<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 	<br /><br />
 <!-- 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyuha)](https://github.com/sungyuha/github-readme-stats) -->
 </div>
